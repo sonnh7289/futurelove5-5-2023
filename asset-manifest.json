@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/futurelove5-5-2023/static/css/main.440ee634.css",
+    "main.js": "/futurelove5-5-2023/static/js/main.f95c53ef.js",
+    "static/js/787.06f824f0.chunk.js": "/futurelove5-5-2023/static/js/787.06f824f0.chunk.js",
+    "static/media/iconHeart.svg": "/futurelove5-5-2023/static/media/iconHeart.e9ee4561b3cfa19fc4ef.svg",
+    "index.html": "./index.html",
+    "main.440ee634.css.map": "/futurelove5-5-2023/static/css/main.440ee634.css.map",
+    "main.f95c53ef.js.map": "/futurelove5-5-2023/static/js/main.f95c53ef.js.map",
+    "787.06f824f0.chunk.js.map": "/futurelove5-5-2023/static/js/787.06f824f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "/futurelove5-5-2023/static/css/main.440ee634.css",
+    "/futurelove5-5-2023/static/js/main.f95c53ef.js"
+  ]
+}
